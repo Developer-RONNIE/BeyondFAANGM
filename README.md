@@ -105,7 +105,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <!-- ## A   -->
 <h2 id="A" align="left">A</h2>  
 
-<ol>
+<ol align="left">
 <li><a href="https://www.accenture.com/in-en/careers">Accenture</a></li>
 <li><a href="https://www.accolite.com/careers">Accolite software</a>  </li>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
