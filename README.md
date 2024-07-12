@@ -168,7 +168,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="B">B</h2>  
 
-<ol>
+<ol align="left">
 <li><a href="https://home.barclays/careers/">Barclays</a></li>
 <li><a href="https://www.bain.com/careers/">Bain &amp; Co</a></li>
 <li><a href="https://www.barcindia.co.in/life-at-barc">BARC India</a></li>
