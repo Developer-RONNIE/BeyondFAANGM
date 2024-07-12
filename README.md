@@ -7,18 +7,127 @@ This Repository contains the list of companies(beyond than FAANGM) which you can
     <br>
 </p>  
 
-<p>
+<div>
 <a href="https://twitter.com/intent/tweet?text=This%20repo%20contains%20opportunities%20for%20you%20to%20apply%20to%20more%20than%20300%20good%20companies%20&url=https://developer-ronnie.github.io/BeyondFAANGM/&hashtags=githubrepository,productbasedcompanies,goodstartups,bestservicebasedcompanies"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet" ></a>
 <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"><img src="https://visitor-badge.laobi.icu/badge?page_id=Developer-RONNIE.BeyondFAANGM" alt="visitor count"/></a>
 <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/stargazers"><img src="https://img.shields.io/github/stars/Developer-RONNIE/BeyondFAANGM?style=social" alt="Stars Badge"/></a>
 <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/network/members"><img src="https://img.shields.io/github/forks/Developer-RONNIE/BeyondFAANGM" alt="Forks Badge"/></a>
 <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Developer-RONNIE/BeyondFAANGM?color=2b9348"></a>
-</p>
+</div>
 
 
 
+<br>
 
 
+ <!---
+PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
+-->
 
- 
+<!-- ## A   -->
+<h2 id="A">A</h2>  
+
+<ol>
+<li><a href="https://www.accenture.com/in-en/careers">Accenture</a></li>
+<li><a href="https://www.accolite.com/careers">Accolite software</a>  </li>
+<li><a href="https://accord-global.com/careers.html">Accord software</a></li>
+<li><a href="https://www.adobe.com/careers.html">Adobe</a>  </li>
+<li><a href="https://able.co/team">Able</a>  </li>
+<li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
+<li><a href="https://acko.skillate.com/">Acko</a></li>
+<li><a href="https://careers.accredible.com/">Accredible</a>  </li>
+<li><a href="https://careers.activisionblizzard.com/">Activision Blizzard</a>  </li>
+<li><a href="https://www.affinidi.com/careers">Affinidi</a>  </li>
+<li><a href="http://agilesolutions.com/careers-2/">Agile Solutions</a>      </li>
+<li><a href="https://agnikul.in/#/career">Agnikul Cosmos</a>   </li>
+<li><a href="https://www.airbase.com/careers">Airbase</a></li>
+<li><a href="https://careers.airbnb.com/">Airbnb</a>  </li>
+<li><a href="https://www.airbus.com/careers.html">Airbus</a>    </li>
+<li><a href="https://careers.airtel.com/">Airtel x labs</a>  </li>
+<li><a href="https://www.ajio.com/ajio-careers">Ajio</a>    </li>
+<li><a href="https://www.akamai.com/careers">Akamai</a>   </li>
+<li><a href="https://talent.alibaba.com/en/home?lang=en">Alibaba Group</a></li>
+<li><a href="https://www.alstom.com/careers">Alstom</a></li>
+<li><a href="https://www.alpha-grep.com/career/">Alpha-grep</a>  </li>
+<li><a href="https://lgads.tv/careers/">Alphonso</a>  </li>
+<li><a href="https://jobs.amadeus.com/">Amadeus labs</a>    </li>
+<li><a href="https://www.amagi.com/careers">Amagi</a>  </li>
+<li><a href="https://careers.amd.com/careers-home">AMD</a>   </li>
+<li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
+<li><a href="https://asset.amdocs.com/careers/">Amdocs</a></li>
+<li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
+<li><a href="https://www.amway.in/about-amway/careers">Amway</a>    </li>
+<li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
+<li><a href="https://www.analog.com/en/about-adi/careers.html">Analog Devices</a>   </li>
+<li><a href="https://www.ansys.com/en-in/careers">Ansys</a>  </li>
+<li><a href="https://www.instahyre.com/jobs-at-apna/">Apna</a>    </li>
+<li><a href="https://www.appdynamics.com/company/careers/india">App Dynamics</a></li>
+<li><a href="https://appen.com/jobs/">Appen</a></li>
+<li><a href="https://www.appfolio.com/company/careers">Appfolio</a></li>
+<li><a href="https://www.apple.com/careers/us/">Apple</a> </li>
+<li><a href="https://appinventiv.com/career/">AppInventiv</a>   </li>
+<li><a href="https://www.appliedmaterials.com/us/en/careers.html">Applied Materials</a>   </li>
+<li><a href="https://jobs.aptiv.com/">Aptiv</a></li>
+<li><a href="https://www.aqr.com/About-Us/Careers">AQR</a>  </li>
+<li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
+<li><a href="https://www.arista.com/en/careers">Arista Networks</a>  </li>
+<li><a href="https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in">Aryaka networks</a></li>
+<li><a href="https://asteria.co.in/careers/">Asteria Aerospace Ltd</a>  </li>
+<li><a href="https://www.asml.com/en/careers">ASML</a>  </li>
+<li><a href="https://www.athenahealth.com/careers">Athena Health</a>  </li>
+<li><a href="https://atlan.com/careers/">Atlan</a></li>
+<li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
+<li><a href="https://jobs.adp.com/">Automatic Data Processing</a>   </li>
+<li><a href="https://auzmor.com/careers/">Auzmor</a>  </li>
+<li><a href="https://availfinance.in/opportunities/">Avail finance</a>  </li>
+<li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
+<li><a href="https://careers.avaya.com/">Avaya</a></li>
+<li><a href="https://www.axisbank.com/careers">Axis Bank</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="B">B</h2>  
+
+<ol>
+<li><a href="https://home.barclays/careers/">Barclays</a></li>
+<li><a href="https://www.bain.com/careers/">Bain &amp; Co</a></li>
+<li><a href="https://www.barcindia.co.in/life-at-barc">BARC India</a></li>
+<li><a href="https://www.bankbazaar.com/careers.html">bankbazaar</a>   </li>
+<li><a href="https://www.bazaarvoice.com/company/careers/">Bazaarvoice</a></li>
+<li><a href="https://careers.bcg.com/">BCG</a>   </li>
+<li><a href="http://www.bellatrixaerospace.com/">Bellatrix Aerospace</a></li>
+<li><a href="https://benchmarkit.zohorecruit.com/jobs/Careers">Benchmark</a> </li>
+<li><a href="https://better.com/about-us/careers">Better</a></li>
+<li><a href="https://bharatpe.com/career">BharatPe</a>  </li>
+<li><a href="https://www.bidgely.com/bidgely-career-opportunities/">Bidgely</a>   </li>
+<li><a href="https://careers.bigbasket.com/">BigBasket</a>  </li>
+<li><a href="https://www.linkedin.com/company/billdesk/jobs/">Billdesk</a>  </li>
+<li><a href="https://www.bitdefender.com/company/job-opportunities/">bitdefender</a>  </li>
+<li><a href="https://bitly.com/pages/careers">bitly</a>  </li>
+<li><a href="https://www.blackbuck.com/careers.php">BlackBuck</a></li>
+<li><a href="https://careers.blackrock.com/">Blackrock</a></li>
+<li><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/jobs">blackberry</a></li>
+<li><a href="https://block.xyz/careers">Block Inc</a></li>
+<li><a href="https://careers.bloomberg.com/job/search">Bloomberg LP</a></li>
+<li><a href="https://www.bluejeans.com/careers">BlueJeans</a></li>
+<li><a href="https://www.blueorigin.com/careers">blueorigin</a></li>
+<li><a href="https://www.bluestacks.com/work-at-bluestacks.html">Bluestacks</a></li>
+<li><a href="https://www.bmc.com/careers/careers.html">BMC software</a>  </li>
+<li><a href="https://jobs.bnymellon.com/">BNY Mellon</a></li>
+<li><a href="https://jobs.boeing.com/">Boeing</a> </li>
+<li><a href="https://jobs.booking.com/careers">Booking.com</a></li>
+<li><a href="https://www.bosch.in/careers/">Bosch</a></li>
+<li><a href="https://www.bottomline.com/apac/about/careers">Bottemline Technologies</a> </li>
+<li><a href="https://careers-bounce.peoplestrong.com/portal/job/joblist">Bounce</a></li>
+<li><a href="https://www.box.com/en-in/careers">Box</a></li>
+<li><a href="https://www.brahmastraspace.org/career">Brahmastra Aerospace</a></li>
+<li><a href="https://www.browserstack.com/careers">Browser stack</a>  </li>
+<li><a href="https://www.broadcom.com/company/careers">Broadcom</a>  </li>
+<li><a href="https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579">BukuWarung</a></li>
+<li><a href="https://jobs.bytedance.com/en">ByteDance</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br>
