@@ -103,7 +103,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 -->
 
 <!-- ## A   -->
-<h2 id="A">A</h2>  
+<h2 id="A" align="left">A</h2>  
 
 <ol>
 <li><a href="https://www.accenture.com/in-en/careers">Accenture</a></li>
