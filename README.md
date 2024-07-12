@@ -166,7 +166,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-<h2 id="B">B</h2>  
+<h2 id="B" align="left">B</h2>  
 
 <ol align="left">
 <li><a href="https://home.barclays/careers/">Barclays</a></li>
