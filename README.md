@@ -7,7 +7,7 @@ This Repository contains the list of companies(beyond than FAANGM) which you can
     <br>
 </p>  
 
-<div>
+
 <a href="https://twitter.com/intent/tweet?text=This%20repo%20contains%20opportunities%20for%20you%20to%20apply%20to%20more%20than%20300%20good%20companies%20&url=https://developer-ronnie.github.io/BeyondFAANGM/&hashtags=githubrepository,productbasedcompanies,goodstartups,bestservicebasedcompanies"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet" ></a>
 <a href="https://github.com/Developer-RONNIE/BeyondFAANGM"><img src="https://visitor-badge.laobi.icu/badge?page_id=Developer-RONNIE.BeyondFAANGM" alt="visitor count"/></a>
 <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/stargazers"><img src="https://img.shields.io/github/stars/Developer-RONNIE/BeyondFAANGM?style=social" alt="Stars Badge"/></a>
@@ -326,7 +326,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-<h2 id="feedback">Feedback</h2>
+<h2 id="feedback" align="left">Feedback</h2>
 <p>If you have any feedback or suggestions please reach out to maintainers.  </p>
 <ul>
 <li><a href="https://www.linkedin.com/in/alapan-banerjee/">Alapan Banerjee</a></li>
