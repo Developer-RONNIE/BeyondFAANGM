@@ -304,7 +304,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 
 <h2 id="guidelines">Guidelines</h2>
-<p>Refer <a href=>rules</a></p>
+<p>Refer <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/blob/main/Guidelines.md">rules</a></p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>  
