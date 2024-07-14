@@ -308,8 +308,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>  
-  
-https://img.shields.io/github/forks/Developer-RONNIE/BeyondFAANGM
+
+
 
 <h2 align=center>Contributors✨</h2>
 <table>
