@@ -260,3 +260,45 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+
+
+<h2 id="D">D</h2>  
+
+<ol>
+<li><a href="https://careers.dailyhunt.com/#!/">DailyHunt</a></li>
+<li><a href="https://www.dashlane.com/about/careers">Dashlane</a></li>
+<li><a href="https://databricks.com/company/careers/open-positions">Databricks</a></li>
+<li><a href="https://www.dataminr.com/careers">Dataminr</a></li>
+<li><a href="https://www.dbs.com/careers/default.page">DBS</a></li>
+<li><a href="https://www.deshawindia.com/careers/career-development">D. E. Shaw &amp; Co.</a></li>
+<li><a href="https://www.dealshare.in/careers#home">DealShare</a>  </li>
+<li><a href="https://www.delhivery.com/careers/">Delhivery</a>  </li>
+<li><a href="https://jobs.dell.com/">Dell</a>  </li>
+<li><a href="https://careers.db.com/">Deutsche Bank</a>  </li>
+<li><a href="https://angel.co/company/dhruvaspace">Dhruva Space</a></li>
+<li><a href="https://www.dialpad.com/careers/">Dialpad</a></li>
+<li><a href="https://careers.directi.com/">Directi</a>  </li>
+<li><a href="https://digit.co/careers">digit</a>  </li>
+<li><a href="https://www.digitalocean.com/careers">digitalocean</a>  </li>
+<li><a href="https://discord.com/jobs">Discord</a></li>
+<li><a href="https://jobs.discovery.com/careers-home/">Discovery inc</a>  </li>
+<li><a href="https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2">Disney</a></li>
+<li><a href="https://www.dolby.com/careers/">dolby</a></li>
+<li><a href="https://careers.doordash.com/">DoorDash</a></li>
+<li><a href="https://www.doximity.com/careers">doximity</a></li>
+<li><a href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions">DP World</a>  </li>
+<li><a href="https://www.drdo.gov.in/careers">DRDO</a></li>
+<li><a href="https://www.dreamsports.group/careers">Dream11</a> </li>
+<li><a href="https://droom.in/career">droom</a>       </li>
+<li><a href="https://www.dropbox.com/jobs">Dropbox</a></li>
+<li><a href="https://www.druva.com/about/careers/">Druva</a>  </li>
+<li><a href="https://angel.co/company/dukaan-app/jobs">Dukaan</a></li>
+<li><a href="https://www.dunzo.com/careers#jobs">Dunzo</a> </li>
+<li><a href="https://duo.com/careers">duo</a> </li>
+<li><a href="https://careers.dupont.com/us/en">DuPont</a></li>
+<li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
