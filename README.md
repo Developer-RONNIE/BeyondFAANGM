@@ -309,14 +309,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>  
   
-
+https://img.shields.io/github/forks/Developer-RONNIE/BeyondFAANGM
 
 <h2 align=center>Contributors✨</h2>
 <table>
     <tr>
          <td>
-  <a href="https://github.com/Developer-RONNIE/companies-to-apply/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Developer-RONNIE/companies-to-apply" />
+  <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Developer-RONNIE/BeyondFAANGM" />
   </a>
         </td>
     </tr>
