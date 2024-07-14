@@ -262,9 +262,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <br>
 
 
-<h2 id="D">D</h2>  
+<h2 id="D" align="left">D</h2>  
 
-<ol>
+<ol align="left">
 <li><a href="https://careers.dailyhunt.com/#!/">DailyHunt</a></li>
 <li><a href="https://www.dashlane.com/about/careers">Dashlane</a></li>
 <li><a href="https://databricks.com/company/careers/open-positions">Databricks</a></li>
@@ -301,4 +301,35 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+
+
+<h2 id="guidelines">Guidelines</h2>
+<p>Refer <a href=>rules</a></p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>  
+  
+
+
+<h2 align=center>Contributors✨</h2>
+<table>
+    <tr>
+         <td>
+  <a href="https://github.com/Developer-RONNIE/companies-to-apply/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Developer-RONNIE/companies-to-apply" />
+  </a>
+        </td>
+    </tr>
+</table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="feedback">Feedback</h2>
+<p>If you have any feedback or suggestions please reach out to maintainers.  </p>
+<ul>
+<li><a href="https://www.linkedin.com/in/alapan-banerjee/">Alapan Banerjee</a></li>
+</ul>
+<div id="Bottom"></div>
 
