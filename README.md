@@ -209,3 +209,54 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+
+
+<h2 id="C" align="left">C</h2>  
+
+<ol>
+<li><a href="https://www.cadence.com/en_US/home/company/careers.html">Cadence</a>  </li>
+<li><a href="https://www.capillarytech.com/about-us/careers/">Capillary</a></li>
+<li><a href="https://www.capitalonecareers.com/">Capital One</a></li>
+<li><a href="https://careers.cardekho.com/">CarDekho</a></li>
+<li><a href="https://www.careem.com/en-ae/careers/">Careem</a></li>
+<li><a href="https://www.carwale.com/career/">CarWale</a></li>
+<li><a href="https://www.cashfree.com/careers">Cashfree</a></li>
+<li><a href="https://cimpress.com/careers/">Cimpress</a></li>
+<li><a href="https://www.celigo.com/company/careers/">Celigo</a>  </li>
+<li><a href="https://jobs.citi.com/">Citi Bank</a>  </li>    
+<li><a href="https://careers.cerner.com/">Cerner</a></li>
+<li><a href="https://careers.chargebee.com/jobs/">Chargebee</a> </li>
+<li><a href="https://www.checkout.com/careers#jobs">Checkout.com</a> </li>
+<li><a href="https://chronus.com/about-us/careers">Chronus</a>  </li>
+<li><a href="https://jobs.cisco.com/">Cisco</a>  </li>
+<li><a href="https://www.citadel.com/careers/open-positions/">Citadel</a></li>
+<li><a href="https://www.citadelsecurities.com/careers/open-roles/">Citadel Securities</a></li>
+<li><a href="https://jobs.citrix.com/">Citrix</a>  </li>
+<li><a href="https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in">Classplus</a></li>
+<li><a href="https://clearglass.com/careers/">ClearGlass</a></li>
+<li><a href="https://careers.cleartrip.com/#!/">Cleartrip</a></li>
+<li><a href="https://www.cloudera.com/careers.html">Cloudera</a>  </li>
+<li><a href="https://www.cloudflare.com/careers/jobs/">cloudflare</a>  </li>
+<li><a href="http://codenation.co.in/hiringprocess.html">Codenation innovation labs</a>  </li>
+<li><a href="https://cutshort.io/company/codeparva-technologies-pvt-ltd-t0cDhxZW">CodeParva Technologies Pvt Ltd</a></li>
+<li><a href="https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in">CodingNinjas</a> </li>
+<li><a href="https://careers.cognizant.com/in/en">Cognizant</a></li>
+<li><a href="https://www.coinbase.com/careers">CoinBase</a></li>
+<li><a href="https://careers.coindcx.com/">CoinDCX</a>  </li>
+<li><a href="https://recruiterflow.com/coinswitch/jobs">Coinswitch kuber</a>  </li>
+<li><a href="https://careers.commvault.com/">Commvault</a></li>
+<li><a href="https://www.continental.com/en/career/">Continental</a></li>
+<li><a href="https://contra.com/careers">Contra</a></li>
+<li><a href="https://rocketyourcareer.usa.coupang.com/">Coupang</a></li>
+<li><a href="https://cradlepoint.com/about-us/careers/job-listings/">Cradlepoint</a> </li>
+<li><a href="https://careers.cred.club/">Cred</a>  </li>
+<li><a href="https://www.credit-suisse.com/careers/en/apply.html">Credit Suisse</a></li>
+<li><a href="https://www.crestron.com/About/careers-jobs-employment-opportunities">Crestron</a></li>
+<li><a href="https://www.crowdstrike.com/careers/">Crowdstrike</a></li>
+<li><a href="https://www.csscorp.com/company/careers/">CSS Corp</a>  </li>
+<li><a href="https://www.cult.fit/careers">cure.fit</a></li>
+<li><a href="https://www.cvent.com/en/careers">Cvent</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
