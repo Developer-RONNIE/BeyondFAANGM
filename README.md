@@ -213,7 +213,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="C" align="left">C</h2>  
 
-<ol>
+<ol align="left">
 <li><a href="https://www.cadence.com/en_US/home/company/careers.html">Cadence</a>  </li>
 <li><a href="https://www.capillarytech.com/about-us/careers/">Capillary</a></li>
 <li><a href="https://www.capitalonecareers.com/">Capital One</a></li>
