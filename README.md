@@ -302,6 +302,249 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
+<h2 id="E">E</h2>  
+
+<ol>
+<li><a href="https://www.ea.com/careers">EA Games</a></li>
+<li><a href="https://jobs.ebayinc.com/us/en">eBay</a></li>
+<li><a href="https://enfusion.com/careers/">Enfussion</a></li>
+<li><a href="https://www.yodlee.com/oceania/india-careers">Envestnet Yoodlee</a>   </li>
+<li><a href="https://www.epam.com/">Epam</a></li>
+<li><a href="https://www.epicgames.com/site/en-US/careers">Epic Games</a></li>
+<li><a href="https://www.ericsson.com/en/careers">Ericsson</a></li>
+<li><a href="https://careers.eurofins.com/in/">Eurofins</a> </li>
+<li><a href="https://careers.equinix.com/homepage">Equinix</a>  </li>
+<li><a href="https://exlservice.com/careers">EXL Healthcare</a>  </li>
+<li><a href="https://lifeatexpediagroup.com/jobs/">Expedia</a>  </li>
+<li><a href="https://careers.ey.com/">EY</a>  </li>
+<li><a href="https://www.eyerov.com/careers/">EyeROV</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="F">F</h2>  
+
+<ol>
+<li><a href="https://www.f5.com/company/careers/">F5</a> </li>
+<li><a href="https://www.factset.com/careers">factset</a>  </li>
+<li><a href="https://fampay.in/careers">FamPay</a></li>
+<li><a href="https://jobs.fidelity.com/">Fidelity investments</a>  </li>
+<li><a href="https://www.fireeye.com/company/jobs.html">FireEye inc</a>  </li>
+<li><a href="https://fischerjordan.com/careers/">Fischer Jordan</a> </li>
+<li><a href="https://www.careers.fiserv.com/">fiserv</a></li>
+<li><a href="https://www.flexport.com/careers/jobs/">Flexport</a></li>
+<li><a href="https://www.flipkartcareers.com/">Flipkart</a> </li>
+<li><a href="https://www.linkedin.com/company/flyfin-ai/jobs/">FlyFin</a></li>
+<li><a href="https://www.fincover.com/">fincover</a></li>
+<li><a href="https://fractal.ai/job-openings/">Fractal</a>  </li>
+<li><a href="https://frappe.io/careers">Frappe Technologies</a></li>
+<li><a href="https://careers.freecharge.in/">FreeCharge</a>  </li>
+<li><a href="https://www.freshworks.com/company/life-at-freshworks/careers/">Freshworks</a></li>
+<li><a href="https://jobs.furlenco.com/">Furlenco</a></li>
+<li><a href="https://www.fylehq.com/company/team/join">fyle</a></li>
+<li><a href="https://www.fico.com/en/careers">Fico</a></li>
+<li><a href="https://www.fujitsu.com/global/about/careers/">Fujitsu</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="G">G</h2>  
+
+<ol>
+<li><a href="https://jobs.gartner.com/">Gartner</a></li>
+<li><a href="https://www.garudaaerospace.com/">Garuda Aerospace private Ltd</a></li>
+<li><a href="https://www.geeksforgeeks.org/careers/?">GeeksForGeeks</a></li>
+<li><a href="https://www.ge.com/in/careers/opportunities">GE</a></li>
+<li><a href="https://jobs.gecareers.com/healthcare/global/en">GE Healthcare</a>  </li>
+<li><a href="https://geekyants.com/join-geekyants">GeekyAnts</a>  </li>
+<li><a href="https://www.genpact.com/careers">Genpact</a>  </li>
+<li><a href="https://careers.ghost.org/">Ghost</a></li>
+<li><a href="https://github.com/about/careers">Github</a></li>
+<li><a href="https://about.gitlab.com/jobs/">Gitlab</a></li>
+<li><a href="https://www.glassdoor.com/Jobs/Glassdoor-Jobs-E100431.htm">Glass Door</a></li>
+<li><a href="https://careers.godaddy.com/">GoDaddy</a></li>
+<li><a href="https://www.godigit.com/">GoDigit</a></li>
+<li><a href="https://www.godrej.com/godrejandboyce/gnb-careers">Godrej Aerospace</a></li>
+<li><a href="https://career.gojek.com/">Gojek</a>  </li>
+<li><a href="https://www.goldmansachs.com/careers/">Goldman Sachs</a>   </li>
+<li><a href="https://careers.google.com/">Google</a></li>
+<li><a href="https://jobs.gopro.com/?lang=en-us#/">Go Pro</a></li>
+<li><a href="https://www.globallogic.com/in/careers/">Global Logic</a></li>
+<li><a href="https://grab.careers/">Grab</a></li>
+<li><a href="https://grafana.com/about/careers/">Grafana</a></li>
+<li><a href="https://www.gravitontrading.com/careers.html">Gravitont Rading</a>   </li>
+<li><a href="https://www.grouponcareers.com/">Groupon</a> </li>
+<li><a href="https://grofers.com/careers/">Grofers</a>  </li>
+<li><a href="https://groww.skillate.com/">Groww</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="H">H</h2>   
+
+<ol>
+<li><a href="https://www.hackerearth.com/careers/">Hackerearth</a></li>
+<li><a href="https://www.hackerrank.com/careers/">HackerRank</a>  </li>
+<li><a href="https://hashedin.com/careers/">Hashedin</a></li>
+<li><a href="https://careers.hashnode.com/jobs">Hashnode</a></li>
+<li><a href="https://warnermediacareers.com/hbo-jobs">HBO</a></li>
+<li><a href="https://www.hcltech.com/careers">HCL Tech</a></li>
+<li><a href="https://www.hdfcbank.com/personal/about-us/careers">HDFC Bank</a></li>
+<li><a href="https://www.healthasyst.com/careers/">HealthAsyst</a></li>
+<li><a href="https://www.healthifyme.com/careers/">Healthify me</a>  </li>
+<li><a href="https://www.here.com/careers">HERE</a></li>
+<li><a href="https://hexagon.com/about/careers">Hexagone</a></li>
+<li><a href="https://tech.hotstar.com/">Hotstar</a></li>
+<li><a href="https://careers.honeywell.com/">Honeywell</a></li>
+<li><a href="https://jobs.hp.com/">HP</a></li>
+<li><a href="https://www.hsbc.com/careers">HSBC Bank</a></li>    
+<li><a href="https://www.hubspot.com/careers/">Hub Spot</a></li>
+<li><a href="https://apply.workable.com/huggingface/">Huggingface</li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="I">I</h2>  
+
+<ol>
+<li><a href="https://www.5ire.org/carreer-blockchain">5ire</a></li>
+<li><a href="https://www.iac.com/join-team">IAC</a></li>
+<li><a href="https://www.ibm.com/in-en/employment/">IBM</a></li>
+<li><a href="https://www.ideaforge.co.in/career/">IdeaForge</a></li>
+<li><a href="https://careers.ihsmarkit.com/">IHS Markit</a>  </li>
+<li><a href="https://www.impactanalytics.co/join-us/">Impact Analytics</a></li>
+<li><a href="https://in.indeed.com/cmp/Indeed">Indeed</a></li>
+<li><a href="https://careers.indiamart.com/">India Mart</a></li>
+<li><a href="https://www.infor.com/nordics/about/careers">Infor</a></li>
+<li><a href="https://informatica.gr8people.com/jobs">Informatica</a></li>
+<li><a href="http://www.infospoke.in/careers.html">Infospoke</a>    </li>
+<li><a href="https://www.inmobi.com/company/careers/">Inmobi</a>  </li>
+<li><a href="https://innovaccer.com/careers/">Innovaccer</a>  </li>
+<li><a href="https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html">Intel</a></li>
+<li><a href="https://www.intellika.in/careers/">Intellika</a>  </li>
+<li><a href="https://www.intuit.com/careers/">Intuit</a>  </li>
+<li><a href="https://www.ipinfusion.com/career/">IP Infusion</a></li>
+<li><a href="https://www.isro.gov.in/careers">ISRO</a>  </li>
+<li><a href="https://www.iquanti.com/contact-us/careers/">iQuanti</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="J">J</h2>  
+
+<ol>
+<li><a href="https://www.jaguarlandrovercareers.com/">Jaguar</a>  </li>
+<li><a href="https://careers.jio.com/">Jio</a>    </li>
+<li><a href="https://jmfl.com/careers">JM Financial</a>  </li>
+<li><a href="https://careers.jpmorgan.com/IN/en/home">JP Morgan</a>  </li>
+<li><a href="https://www.juniper.net/us/en/company/culture-careers.html">Juniper networks</a></li>
+<li><a href="https://jobs.lever.co/jupiter">Jupiter money</a>  </li>
+<li><a href="https://www.juspay.in/careers/">Juspay</a>  </li>
+<li><a href="https://jumbotail.com/careers/">Jumbotail</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="K">K</h2>
+
+<ol>
+<li><a href="https://www.kantar.com/careers">Kantar</a>  </li>
+<li><a href="https://www.linkedin.com/in/deepak-sharda-6594561b1/">Kesari bharat</a>  </li>
+<li><a href="https://www.keyence.com/ss/careers/">Keyence</a>   </li>
+<li><a href="https://keyvalue.systems/">Keyvalue</a></li>
+<li><a href="https://khatabook.com/hiring">Khatabook</a></li>
+<li><a href="https://khoros.com/about/careers">khoros</a></li>
+<li><a href="https://www.kla-tencor.com/careers">KLA Tencor</a>  </li>
+<li><a href="https://jobs.kochcareers.com/">Koch</a></li>
+<li><a href="https://www.kotak.com/en/about-us/careers.html">Kotak Mahindra Bank</a></li>    
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="L">L</h2>   
+
+<ol>
+<li><a href="https://www.lambdatest.com/career">LambdaTest</a>  </li>
+<li><a href="https://www.lamresearch.com/careers/careers-overview/">Lam Research</a>   </li>
+<li><a href="https://www.jaguarlandrovercareers.com/">Land rover</a>  </li>
+<li><a href="https://hiring.lenskart.com/">Lenskart</a></li>
+<li><a href="https://jobs.lenovo.com/en_US/careers">Lenovo</a></li>
+<li><a href="https://leapfinance.freshteam.com/jobs">Leap Finance</a></li>
+<li><a href="https://thelevel.ai/career/">Level AI</a></li>
+<li><a href="https://www.careers.in/">Licious</a></li>
+<li><a href="https://www.liebherr.com/en/usa/start/start-page.html">Liebherr</a></li>
+<li><a href="https://careers.linkedin.com/">LinkedIn</a> </li>
+<li><a href="https://www.logic-fruit.com/">LogicFruit</a> </li>
+<li><a href="https://www.logicmonitor.com/careers">Logicmonitor</a></li>
+<li><a href="https://corporate.lowes.com/careers/search-apply">Lowe&#39;s companies, inc</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="M">M</h2>  
+
+<ol>
+<li><a href="https://magicpin.darwinbox.in/ms/candidate/careers">Magicpin</a>  </li>
+<li><a href="https://careers.makemytrip.com/">MakeMyTrip</a>  </li>
+<li><a href="https://www.mastercard.us/en-us/vision/who-we-are/careers.html">Mastercard</a>  </li>
+<li><a href="https://mastery.net/careers/">Mastery</a></li>
+<li><a href="https://in.mathworks.com/company/jobs/opportunities.html">Mathworks</a>  </li>
+<li><a href="https://maqsoftware.com/">Maq Software</a></li>
+<li><a href="https://www.mckinsey.com/in/careers-in-india">McKinsey</a></li>
+<li><a href="https://careers.media.net/">Media.net</a> </li>
+<li><a href="https://www.metacareers.com/">Meta</a>    </li>
+<li><a href="https://careers.meesho.com/">Meesho</a>  </li>
+<li><a href="https://memory.ai/jobs">Memory</a></li>
+<li><a href="https://micron.eightfold.ai/careers">Micron</a></li>
+<li><a href="https://careers.microsoft.com/us/en">Microsoft</a>        </li>
+<li><a href="https://www.mindtickle.com/careers/">MindTickle</a></li>
+<li><a href="https://mobikwik.recruiterbox.com/">MobiKwik</a>  </li>
+ <li><a href="https://www.molbiodiagnostics.com/career.php">Molbio Diagnostics</a>  </li>
+<li><a href="https://www.morganstanley.com/people-opportunities/">Morgan Stanley</a>  </li>
+<li><a href="https://careers.mounttalent.com/">Mount talent</a></li>
+<li><a href="https://mpl.darwinbox.in/ms/candidate/careers">MPL</a>   </li>
+<li><a href="https://www.mtxb2b.com/s/career">MTX</a></li>
+<li><a href="https://multiverseapp.com/">Multiverse Software</a></li>
+<li><a href="https://careers.myntra.com/">Myntra</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="N">N</h2>  
+
+<ol>
+<li><a href="https://www.nagarro.com/en/careers">Nagarro</a>  </li>
+<li><a href="https://www.nasdaq.com/about/careers">NASDAQ</a>  </li>
+<li><a href="https://www.ni.com/en-in/about-ni/careers.html">National instruments</a>  </li>
+<li><a href="https://jobs.natwestgroup.com/search/jobs/in/country/india">NatWest Group</a></li>
+<li><a href="https://www.navifinserv.com/life-at-chaitanya">navi</a>  </li>
+<li><a href="https://www.ncr.com/careers">NCR Corporation</a></li>
+<li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
+<li><a href="https://www.netcracker.com/careers/">Netcracker</a></li>
+<li><a href="https://jobs.netflix.com/">Netflix</a>  </li>
+<li><a href="https://netmeds.darwinbox.in/ms/candidate/careers">Netmeds</a></li>
+<li><a href="https://jobs.nike.com/">Nike</a></li>
+<li><a href="https://ninjacart.in/careers/">Ninjacart</a></li>
+<li><a href="https://www.nokia.com/about-us/careers/">Nokia</a>  </li>
+<li><a href="https://nurture.farm/join-us/">nurture.farm</a>  </li>
+<li><a href="https://www.nutanix.com/company/careers">Nutanix</a>   </li>
+<li><a href="https://www.nvidia.com/en-in/about-nvidia/careers/">Nvidia</a>  </li>
+<li><a href="https://www.nykaa.com/careers?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE&ef_id=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE:G:s&s_kwcid=AL!599!3!560340772706!!!g!!&utm_source=GooglePaid&utm_medium=search&utm_campaign=adwords_search_dsa_full_site">Nykaa</a></li>
+<li><a href="https://ninjacart.in/careers/">Ninjacart</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 
 <h2 id="guidelines">Guidelines</h2>
 <p>Refer <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/blob/main/Guidelines.md">rules</a></p>
