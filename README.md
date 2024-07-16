@@ -545,6 +545,72 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
+<h2 id="O">O</h2>  
+
+<ol>
+<li><a href="https://obvious.in/careers">Obvious</a></li>
+<li><a href="https://www.ocrolus.com/careers/">Ocrolus</a></li>
+<li><a href="https://www.olacabs.com/careers">Ola</a> </li>
+<li><a href="https://careers.olxgroup.com/">Olx</a> </li>
+<li><a href="https://www.getonecard.app/careers/">OneCard</a> </li>
+<li><a href="https://www.oneplus.com/global/careers">Oneplus</a> </li>
+<li><a href="https://www.oracle.com/apac/corporate/careers/">Oracle</a>  </li>
+<li><a href="https://www.naukri.com/oyo-jobs-careers-2884032">OYO</a></li>
+<li><a href="https://www.observe.ai/careers#section-current-openings">Observe.ai</a></li>
+<li><a href="https://openai.com/careers">Open AI</a></li>
+<li><a href="https://careers.opentext.com/">OpenText</a></li>
+<li><a href="https://www.optum.in/about/careers.html">Optum</a></li>
+<li><a href="https://optym.com/careers/">Optym</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="P">P</h2>  
+
+<ol>
+<li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
+<li><a href="https://parkplus.io/we-are-hiring#hiring">Park+</a>  </li>
+<li><a href="https://www.paypal.com/in/webapps/mpp/jobs">Paypal</a>  </li>
+<li><a href="https://paytm.com/careers/">Paytm</a>  </li>
+<li><a href="https://payu.in/careers">PayU</a>  </li>
+<li><a href="https://www.gopazo.com/">Pazo</a>  </li>
+<li><a href="https://www.peoplestrong.com/careers/">PeopleStrong</a></li>
+<li><a href="https://www.persistent.com/careers/">persistent systems</a>  </li>
+<li><a href="https://pharmeasy.in/careers/">PharmEasy</a>  </li>
+<li><a href="https://www.careers.philips.com/professional/in/en">Phillips</a></li>
+<li><a href="https://www.phonepe.com/careers/">Phonepe</a>  </li>
+<li><a href="https://www.playment.io/careers">Playment</a>  </li>
+<li><a href="https://planful.com/jobs/">Planful</a>  </li>
+<li><a href="https://polygon.technology/careers/">Polygon Technology</a></li>
+<li><a href="https://www.postman.com/company/careers/">postman</a>  </li>
+<li><a href="https://practo.app.param.ai/jobs">Practo</a></li>
+<li><a href="https://careers.priceline.com/search">priceline</a>  </li>
+<li><a href="https://www.principal.com/about-us/careers/global-jobs">Principal</a></li>
+<li><a href="https://www.privado.ai">Privado.ai</a></li>
+<li><a href="https://www.providencehealthcare.org/careers">Providence Healthcare</a></li>
+<li><a href="https://jobs.lever.co/protegrity?location=Bengaluru">Protegrity</a>  </li>
+<li><a href="https://www.proximity.tech/careers">Proximity Labs</a>  </li>
+<li><a href="https://www.prodapt.com/en/careers/">Prodapt</a></li>
+<li><a href="https://careers.publicissapient.com/">Publicis Sapient</a></li>
+<li><a href="https://pubmatic.com/careers/home/">PubMatic</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="Q">Q</h2>  
+
+<ol>
+<li><a href="https://www.qualcomm.com/company/careers">Qualcomm</a> </li>
+<li><a href="https://quantiphi.com/careers/">Quantiphi</a> </li>
+<li><a href="https://www.linkedin.com/company/quicksell/jobs/">QuickSell</a> </li>
+<li><a href="https://www.quora.com/careers">Quora</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 
 <h2 id="guidelines">Guidelines</h2>
 <p>Refer <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/blob/main/Guidelines.md">rules</a></p>
