@@ -611,6 +611,29 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
+<h2 id="R">R</h2>  
+
+<ol>
+<li><a href="https://ramp.com/careers">Ramp</a>  </li>
+<li><a href="https://razorpay.com/jobs/">Razorpay</a>  </li>
+<li><a href="https://www.redhat.com/en/jobs">Red hat</a>  </li>
+<li><a href="https://angel.co/company/reelohq">Reelo</a></li>
+<li><a href="https://www.getreprise.com/careers/">Reprise</a></li>
+<li><a href="https://www.rippling.com/careers">Rippling</a>  </li>
+<li><a href="https://www.rivigo.com/careers/">Rivigo</a></li>
+<li><a href="https://www.myrocketcareer.com/">Rocket Companies</a></li>
+<li><a href="https://www.rockstargames.com/careers/">Rockstar Games</a></li>
+<li><a href="https://www.rubrik.com/company/careers">Rubrik</a></li>
+<li><a href="https://www.weareroku.com/jobs/search">Roku</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="S">S</h2> 
+
+
+
 
 <h2 id="guidelines">Guidelines</h2>
 <p>Refer <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/blob/main/Guidelines.md">rules</a></p>
