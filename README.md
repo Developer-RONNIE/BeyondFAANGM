@@ -650,7 +650,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
     <tr>
          <td>
              <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/graphs/contributors&v1?">
-                 <img src="https://contrib.rocks/image?repo=Developer-RONNIE/BeyondFAANGM" />
+                 <img src="https://contrib.rocks/image?repo=Developer-RONNIE/BeyondFAANGM&v1" />
              </a>
         </td>
     </tr>
