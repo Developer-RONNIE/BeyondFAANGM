@@ -645,13 +645,13 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 
 
-<h2 align=center>Contributors✨</h2>
-<table>
+<h2 align="center">Contributors ✨</h2>
+<table align="center">
     <tr>
-         <td>
-             <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/graphs/contributors?">
-                 <img src="https://contrib.rocks/image?repo=Developer-RONNIE/BeyondFAANGM" />
-             </a>
+        <td>
+            <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/graphs/contributors">
+                <img src="https://contrib.rocks/image?repo=Developer-RONNIE/BeyondFAANGM" alt="Contributors" />
+            </a>
         </td>
     </tr>
 </table>
