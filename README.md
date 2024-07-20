@@ -646,7 +646,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 
 <h2 align=center>Contributors✨</h2>
-<table align=center>
+<table >
     <tr>
          <td>
              <a href="https://github.com/Developer-RONNIE/BeyondFAANGM/graphs/contributors&v1?">
