@@ -631,6 +631,44 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <br>
 
 <h2 id="S">S</h2>
+
+<ol>
+<li><a href="https://www.jiosaavn.com/corporate/jobs">Saavan</a>  </li>
+<li><a href="https://www.sabre.com/careers/">Sabre corporation</a>  </li>
+<li><a href="https://www.salarybox.in/careers">SalaryBox</a></li>
+<li><a href="https://www.salesforce.com/company/careers/">Salesforce</a>  </li>
+<li><a href="https://www.samsung.com/in/about-us/careers/">Samsung</a>  </li>
+<li><a href="https://jobs.sap.com/">SAP</a>  </li>
+<li><a href="https://www.se.com/in/en/about-us/careers/overview.jsp">Schneider Electric</a>   </li>
+<li><a href="https://jobs.sendinblue.com/en">SendinBlue</a></li>
+<li><a href="https://serpapi.com/team">SerpApi</a>  </li>
+<li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
+<li><a href="https://www.naukri.com/">Shaadi.com</a>  </li>
+<li><a href="https://sharechat.com/careers">ShareChat</a></li>
+<li><a href="https://www.shell.com/careers.html">Shell</a>  </li>
+<li><a href="https://careers.shiprocket.in/">Shiprocket</a></li>
+<li><a href="https://shipsy.io/career/">Shipsy</a></li>
+<li><a href="https://careers.shopee.sg/">Shopee</a></li>
+<li><a href="https://www.shopify.com/careers">Shopify</a></li>
+<li><a href="https://new.siemens.com/global/en/company/jobs/our-locations/india.html">Siemens</a></li>
+<li><a href="https://www.siemens-healthineers.com/en-in/careers">Siemens Healthineers</a></li>
+<li><a href="https://www.sigmoid.com/careers/">Sigmoid</a></li>
+<li><a href="https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000">SkillVertex</a></li>
+<li><a href="https://skyroot.in/join/">Skyroot Aerospace</a> </li>
+<li><a href="https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in">Sling Media</a>    </li>
+<li><a href="https://www.smithsdetection.com/careers/">Smith Detection</a>  </li>
+<li><a href="https://www.sonyjobs.com/careers.html">Sony</a>  </li>
+<li><a href="https://spinny.freshteam.com/jobs">Spinny</a>  </li>
+<li><a href="https://www.sprinklr.com/careers/">Sprinklr</a></li>
+<li><a href="https://www.squadstack.com/careers/">Squadstack</a></li>
+<li><a href="https://stripe.com/in/jobs">Stripe</a>  </li>
+<li><a href="https://sureify.com/careers/">Sureify</a></li>
+<li><a href="https://careers.swiggy.com/">Swiggy</a>  </li>
+<li><a href="https://www.synopsys.com/careers.html">Synopsys</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 <br>
 <h2 id="T">T</h2>
 
