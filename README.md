@@ -669,8 +669,93 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
-<br>
+
 <h2 id="T">T</h2>
+
+<ol>
+<li><a href="https://corporate.target.com/careers">Target</a>  </li>
+<li><a href="https://www.tataadvancedsystems.com/careers.php">TATA Advanced Sysytems Ltd</a></li>
+<li><a href="https://www.tatanexarc.com/careers/">TATA nexarc</a>      </li>
+<li><a href="https://careers.te.com/">TE Connectivity</a></li>
+<li><a href="https://www.teksystems.com/en-in/careers">TEK Systems</a></li>
+<li><a href="https://tekion.com/careers">Tekion corp</a></li>
+<li><a href="https://careers.tencent.com/en-us/search.html?query=ot_40001001,ot_40001002,ot_40001003,ot_40001004,ot_40001005,ot_40001006">Tencent</a>  </li>
+<li><a href="https://www.tesla.com/careers">Tesla</a> </li>
+<li><a href="https://testingbot.com/careers">TestingBot</a></li>
+<li><a href="https://careers.teradata.com/">Teradata</a></li>
+<li><a href="https://careers.ti.com/">Texas Instruments</a> </li>
+<li><a href="https://www.tsmc.com/static/english/careers/index.htm">TSMC</a></li>
+<li><a href="https://www.thoughtspot.com/careers-listing">ThoughtSpot</a>  </li>
+<li><a href="https://www.thoughtworks.com/careers/jobs">ThoughtWorks</a> </li>
+<li><a href="https://www.topcoder.com/company/jobs/">Topcoder</a></li>
+<li><a href="https://www.toptal.com/careers">Toptal</a> </li>
+<li><a href="https://www.tower-research.com/positions">tower research capital</a>  </li>
+<li><a href="https://www.linkedin.com/company/treebohotels/jobs/">Treebo Hotels</a></li>
+<li><a href="https://turvo.com/careers/">Turvo</a></li>
+<li><a href="https://www.twilio.com/company/jobs">Twilio</a>  </li>
+<li><a href="https://careers.twitter.com/">Twitter</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="U">U</h2>  
+
+<ol>
+<li><a href="https://www.uber.com/us/en/careers/">Uber</a>  </li>
+<li><a href="https://www.ubisoft.com/en-us/company/careers">Ubisoft</a></li>
+<li><a href="https://careers.udaan.com/">Udaan</a></li>
+<li><a href="https://careers.ukg.com/">Ultimate Kronos Group</a></li>
+<li><a href="https://unacademy.com/careers">unacadamy</a>    </li>
+<li><a href="https://unicommerce.com/careers/">Unicommerce</a></li>
+<li><a href="https://jobs.unisys.com/us/en">Unisys</a>    </li>
+<li><a href="https://www.upgrad.com/us/careers/">Upgrad</a>   </li>
+<li><a href="https://jobs.lever.co/upstox">Upstox</a>    </li>
+<li><a href="https://www.upwork.com/careers">Upwork</a>  </li>
+<li><a href="https://careers.urbancompany.com/">Urban company</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="V">V</h2>  
+
+<ol>
+<li><a href="https://valuefy-solutions.breezy.hr/">Valuefy</a></li>
+<li><a href="https://careers.viasat.com/">Viasat</a>  </li>
+<li><a href="https://vicara.ch/careers/">Vicara</a></li>
+<li><a href="https://www.visa.co.in/careers.html">Visa</a></li>
+<li><a href="https://careers.vmware.com/main/">Vmware</a>  </li>
+<li><a href="https://vogo.in/careers/">Vogo</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="W">W</h2>  
+
+<ol>
+<li><a href="https://careers.walmart.com/technology">Walmart</a>  </li>
+<li><a href="https://warnermediacareers.com/warner-bros-jobs">Warner Bros.</a></li>
+<li><a href="https://www.wellsfargo.com/about/careers/">Wells Fargo</a>  </li>
+<li><a href="https://jobs.westerndigital.com/">Western Digital</a>  </li>
+<li><a href="https://whatfix.com/careers/">Whatfix</a></li>
+<li><a href="https://wooqer.com/careers/">Wooqer</a></li>
+<li><a href="https://www.worldquant.com/careers/">worldQuant</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<h2 id="X">X</h2>  
+
+<ol>
+<li><a href="https://xiaomi.app.param.ai/jobs/">Xiaomi</a>  </li>
+<li><a href="https://www.xicom.biz/careers/">Xicom Technologies</a></li>
+</ol>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 <br>
 
